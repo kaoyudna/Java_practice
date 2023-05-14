@@ -1,8 +1,6 @@
 public class Main {
-    public static void main(String[] args) {
-        int a = 10;
-        int b = 10;
-        System.out.println(++a + 50);
-        System.out.println(b++ + 50);
-    }
+  public static void main(String[] args) {
+    int age = (int)3.2;
+    System.out.println(age);
+  }
 }
